@@ -42,7 +42,16 @@
       "likes": 0,
       "likedBy": [],
       "answers": [
-        "The authorship of Hebrews is unknown; it is anonymous in the manuscript tradition and debated among scholars."
+        "The authorship of Hebrews is unknown; it is anonymous in the manuscript tradition and debated among scholars.",
+        {
+          "id": 1768560800393,
+          "content": "Unknown anonymous writer",
+          "author": "Disbeliever",
+          "isOwner": false,
+          "date": "2026-01-16T10:53:20.393Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
       ]
     },
     {
