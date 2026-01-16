@@ -10,7 +10,9 @@
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
       "status": "pending",
       "likes": 1,
-      "likedBy": ["user_k2dl7w3ut"],
+      "likedBy": [
+        "user_k2dl7w3ut"
+      ],
       "answers": []
     },
     {
@@ -24,7 +26,9 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": ["The Quran uses 'sister of Aaron' as an honorific title indicating lineage from the pious line of Aaron, not as literal sibling reference. Miriam (Maryam) in Arabic tradition is from the same righteous family."]
+      "answers": [
+        "The Quran uses 'sister of Aaron' as an honorific title indicating lineage from the pious line of Aaron, not as literal sibling reference. Miriam (Maryam) in Arabic tradition is from the same righteous family."
+      ]
     },
     {
       "id": 1768501000000,
@@ -37,7 +41,9 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": ["The authorship of Hebrews is unknown; it is anonymous in the manuscript tradition and debated among scholars."]
+      "answers": [
+        "The authorship of Hebrews is unknown; it is anonymous in the manuscript tradition and debated among scholars."
+      ]
     },
     {
       "id": 1768502000000,
@@ -50,7 +56,18 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": ["Muslims believe the original Torah was revealed to Moses but was altered over time. The Quran mentions this in Surah Al-Baqarah (2:79): \"So woe to those who write the 'scripture' with their own hands, then say, 'This is from Allah,' in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.\""]
+      "answers": [
+        "Muslims believe the original Torah was revealed to Moses but was altered over time. The Quran mentions this in Surah Al-Baqarah (2:79): \"So woe to those who write the 'scripture' with their own hands, then say, 'This is from Allah,' in order to exchange it for a small price. Woe to them for what their hands have written and woe to them for what they earn.\"",
+        {
+          "id": 1768560766962,
+          "content": "What do you mean by anonymous",
+          "author": "Disbeliever",
+          "isOwner": false,
+          "date": "2026-01-16T10:52:46.962Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768503000000,
@@ -64,7 +81,6 @@
       "likes": 0,
       "likedBy": []
     },
-
     {
       "id": 1768504000000,
       "name": "question(summary)",
