@@ -140,7 +140,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1768607656412,
+          "content": "They lie.\nIf mary can appear to believers then why not appear to disbelievers like in makkah above the kaaba?\n\nShe only \"appears\" to the Christians, but those Christians are liars.",
+          "author": "Phoenix",
+          "isOwner": false,
+          "date": "2026-01-16T23:54:16.412Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768575984790,
