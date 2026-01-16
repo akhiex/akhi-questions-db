@@ -101,7 +101,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1768576036949,
+          "content": "Great question",
+          "author": "Kafir",
+          "isOwner": false,
+          "date": "2026-01-16T15:07:16.949Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768505000000,
