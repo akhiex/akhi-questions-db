@@ -223,6 +223,17 @@
           "parentAnswerId": null
         }
       ]
+    },
+    {
+      "id": 1768634128534,
+      "name": "Ghadisa",
+      "email": "",
+      "question": "Is making dua in congregation praising Allah bida’a",
+      "timestamp": "2026-01-17T07:15:28.534Z",
+      "status": "pending",
+      "likes": 0,
+      "likedBy": [],
+      "answers": []
     }
   ]
 }
