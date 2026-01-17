@@ -183,7 +183,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1768620682858,
+          "content": "Is it \nA. SALAMA\nOR \nB. WALLEKUM \n?",
+          "author": "G-hud",
+          "isOwner": false,
+          "date": "2026-01-17T03:31:22.858Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
