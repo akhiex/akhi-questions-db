@@ -89,7 +89,18 @@
       "userAgent": "",
       "status": "pending",
       "likes": 0,
-      "likedBy": []
+      "likedBy": [],
+      "answers": [
+        {
+          "id": 1768621381759,
+          "content": "Him and the companions validated the Qurans that where authentic, how??? They memorized it directly from the prophet Mohammed s.a.w himself. And they went around finding Qurans that didnt 100% have the same writings as there authentic Quran and had all of the manipulated Qurans burned. That is literaly not used as much by Christians anymore because it corners them into a place where the end game is \"uthman r.a burned ALL alterd qurans and left one Quran that we still have today.",
+          "author": "G-hud",
+          "isOwner": false,
+          "date": "2026-01-17T03:43:01.759Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768504000000,
