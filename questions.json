@@ -261,7 +261,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1768833618104,
+          "content": "How many gods died on the cross",
+          "author": "Kafir",
+          "isOwner": false,
+          "date": "2026-01-19T14:40:18.104Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
