@@ -222,7 +222,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1768982779338,
+          "content": "https://refutingpaulianity.com/",
+          "author": "Disbeliever",
+          "isOwner": false,
+          "date": "2026-01-21T08:06:19.338Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768610481430,
