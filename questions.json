@@ -179,7 +179,17 @@
           "author": "Phoenix",
           "isOwner": false,
           "date": "2026-01-16T23:54:16.412Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1768980130470,
+              "content": "Go read it yourself, the first guy to see it, his name was Mohammed.",
+              "author": "Zack",
+              "isOwner": false,
+              "date": "2026-01-21T07:22:10.470Z",
+              "replies": [],
+              "parentAnswerId": 1768607656412
+            }
+          ],
           "parentAnswerId": null
         },
         {
