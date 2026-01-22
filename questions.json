@@ -234,7 +234,6 @@
         }
       ]
     },
-    
     {
       "id": 1768619951136,
       "name": "G-hud",
@@ -312,6 +311,17 @@
           "parentAnswerId": null
         }
       ]
+    },
+    {
+      "id": 1769091374490,
+      "name": "Disbeliever",
+      "email": "",
+      "question": "Can Muslims say Jesus is king?",
+      "timestamp": "2026-01-22T14:16:14.490Z",
+      "status": "pending",
+      "likes": 0,
+      "likedBy": [],
+      "answers": []
     }
   ]
 }
