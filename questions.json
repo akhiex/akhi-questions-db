@@ -397,7 +397,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1769315200654,
+          "content": "It isnt. The dead sea scrolls prove Torah is not. Islam is lie",
+          "author": "Muhammad",
+          "isOwner": false,
+          "date": "2026-01-25T04:26:40.654Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1769315173124,
