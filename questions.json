@@ -112,7 +112,17 @@
           "author": "Muhammad",
           "isOwner": false,
           "date": "2026-01-25T04:28:33.188Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1769378565561,
+              "content": "Stop pretending you're Muslim, Muhammad.",
+              "author": "Zerina",
+              "isOwner": false,
+              "date": "2026-01-25T22:02:45.561Z",
+              "replies": [],
+              "parentAnswerId": 1769315313188
+            }
+          ],
           "parentAnswerId": null
         }
       ]
