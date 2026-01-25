@@ -334,7 +334,17 @@
           "author": "Muhammad",
           "isOwner": false,
           "date": "2026-01-25T04:28:57.748Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1769378734207,
+              "content": "A guy pretending to be Muslim btw^^",
+              "author": "Zerina",
+              "isOwner": false,
+              "date": "2026-01-25T22:05:34.207Z",
+              "replies": [],
+              "parentAnswerId": 1769315337748
+            }
+          ],
           "parentAnswerId": null
         }
       ]
