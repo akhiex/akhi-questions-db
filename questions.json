@@ -386,7 +386,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1769315228722,
+          "content": "Yes akhi, of course, Jesus is our king and he is the spirit of Allah",
+          "author": "Muhammad",
+          "isOwner": false,
+          "date": "2026-01-25T04:27:08.722Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1769260805279,
