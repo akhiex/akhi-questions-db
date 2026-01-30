@@ -522,8 +522,10 @@
       "question": "Assalomu alaykum. I have question about Jesus crucifixion. We know that Allah made Jesus (peace be upon him) appear to the apostles as if he were dead. Isn't this like Allah deceived the apostles of Jesus (peace be upon him)?",
       "timestamp": "2026-01-29T15:23:47.589Z",
       "status": "pending",
-      "likes": 0,
-      "likedBy": [],
+      "likes": 1,
+      "likedBy": [
+        "user_cpqdl02cn"
+      ],
       "answers": []
     }
   ]
