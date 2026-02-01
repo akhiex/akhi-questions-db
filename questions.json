@@ -526,7 +526,17 @@
       "likedBy": [
         "user_cpqdl02cn"
       ],
-      "answers": []
+      "answers": [
+        {
+          "id": 1769907851127,
+          "content": "Yes, we did trick. (Deception)",
+          "author": "Muhammad",
+          "isOwner": false,
+          "date": "2026-02-01T01:04:11.127Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1769892682126,
