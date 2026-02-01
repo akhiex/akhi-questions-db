@@ -499,7 +499,17 @@
           "author": "Zerina",
           "isOwner": false,
           "date": "2026-01-25T22:13:43.903Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1769907883583,
+              "content": "Im not christian im muslim, I started islam. And in the quran im the first muslim.",
+              "author": "Muhammad",
+              "isOwner": false,
+              "date": "2026-02-01T01:04:43.583Z",
+              "replies": [],
+              "parentAnswerId": 1769379223903
+            }
+          ],
           "parentAnswerId": null
         }
       ]
