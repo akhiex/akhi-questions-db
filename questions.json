@@ -587,7 +587,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1769908068884,
+          "content": "No, god in the bible Torah does not allow 4 wives, but I made it and I used gods name to justify this",
+          "author": "Muhammad",
+          "isOwner": false,
+          "date": "2026-02-01T01:07:48.884Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
