@@ -368,7 +368,17 @@
                   "author": "Muhammad",
                   "isOwner": false,
                   "date": "2026-02-01T01:05:33.737Z",
-                  "replies": [],
+                  "replies": [
+                    {
+                      "id": 1770080678163,
+                      "content": "You Christians weird much",
+                      "author": "Zerina",
+                      "isOwner": false,
+                      "date": "2026-02-03T01:04:38.163Z",
+                      "replies": [],
+                      "parentAnswerId": 1769907933737
+                    }
+                  ],
                   "parentAnswerId": 1769378734207
                 }
               ],
