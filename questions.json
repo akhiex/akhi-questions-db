@@ -563,7 +563,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1770866608486,
+          "content": "Modern hebrew is a fake language. Plus its hard on the ears. The tongue of Mordor...",
+          "author": "🔻",
+          "isOwner": false,
+          "date": "2026-02-12T03:23:28.486Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1769700227589,
