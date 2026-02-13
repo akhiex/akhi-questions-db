@@ -491,7 +491,17 @@
           "author": "Muhammad",
           "isOwner": false,
           "date": "2026-01-25T04:27:08.722Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1770965110038,
+              "content": "😂 Ok Paulistian",
+              "author": "Sher",
+              "isOwner": false,
+              "date": "2026-02-13T06:45:10.038Z",
+              "replies": [],
+              "parentAnswerId": 1769315228722
+            }
+          ],
           "parentAnswerId": null
         },
         {
