@@ -690,8 +690,10 @@
       "question": "What is meant by arabic being the root of all other languages?",
       "timestamp": "2026-02-12T03:18:48.192Z",
       "status": "pending",
-      "likes": 0,
-      "likedBy": [],
+      "likes": 1,
+      "likedBy": [
+        "user_ba5t82dfu"
+      ],
       "answers": []
     },
     {
