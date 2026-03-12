@@ -522,8 +522,10 @@
       "question": "How do we know the Torah is corrupted? I get why the Bible is.",
       "timestamp": "2026-01-24T13:20:05.279Z",
       "status": "pending",
-      "likes": 0,
-      "likedBy": [],
+      "likes": 1,
+      "likedBy": [
+        "user_e4zta0lvn"
+      ],
       "answers": [
         {
           "id": 1769315200654,
