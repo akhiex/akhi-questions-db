@@ -741,7 +741,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1776247646284,
+          "content": "The narration you quoted is not an authentic source for Islamic belief and is not used in creed or law by scholars. In Islam, the story of Adam and Eve is clear in the Qur’an: both of them sinned, both repented, and both were forgiven by God. Islam explicitly rejects the idea of inherited sin or a punishment passed down to all women or all humans. Every person is responsible only for their own actions, and no soul carries the burden of another.",
+          "author": "Bruh",
+          "isOwner": false,
+          "date": "2026-04-15T10:07:26.284Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1774466555135,
