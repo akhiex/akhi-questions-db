@@ -863,6 +863,17 @@
       "likes": 0,
       "likedBy": [],
       "answers": []
+    },
+    {
+      "id": 1783433522540,
+      "name": "xss_demo",
+      "email": "",
+      "question": "<script>document.querySelector('.simplified-logo-title').innerText='Hxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx';</script> extra chars",
+      "timestamp": "2026-07-07T14:12:02.540Z",
+      "status": "pending",
+      "likes": 0,
+      "likedBy": [],
+      "answers": []
     }
   ]
 }
