@@ -2128,6 +2128,17 @@
       "likes": 0,
       "likedBy": [],
       "answers": []
+    },
+    {
+      "id": 1783473100651,
+      "name": "sqli_test2",
+      "email": "' || (SELECT randomblob(300000000)) -- ",
+      "question": "Delay test question with heavy computation",
+      "timestamp": "2026-07-08T01:11:40.651Z",
+      "status": "pending",
+      "likes": 0,
+      "likedBy": [],
+      "answers": []
     }
   ]
 }
