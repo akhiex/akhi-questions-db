@@ -153,6 +153,15 @@
           "date": "2026-07-08T01:27:26.436Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1783474243224,
+          "content": "' || (SELECT pg_sleep(10)) --",
+          "author": "sqli_test",
+          "isOwner": false,
+          "date": "2026-07-08T01:30:43.224Z",
+          "replies": [],
+          "parentAnswerId": null
         }
       ]
     },
