@@ -2117,6 +2117,17 @@
       "likes": 0,
       "likedBy": [],
       "answers": []
+    },
+    {
+      "id": 1783472954702,
+      "name": "sqli_test",
+      "email": "' || (SELECT randomblob(100000000)) -- ",
+      "question": "Delay test question to check SQL injection",
+      "timestamp": "2026-07-08T01:09:14.702Z",
+      "status": "pending",
+      "likes": 0,
+      "likedBy": [],
+      "answers": []
     }
   ]
 }
