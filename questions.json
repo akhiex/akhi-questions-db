@@ -5053,10 +5053,20 @@
       "email": "",
       "question": "What is Islam and how does it go against Christian",
       "timestamp": "2026-08-31T13:38:31.918Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791565396044,
+          "content": "Yes",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:03:16.044Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
