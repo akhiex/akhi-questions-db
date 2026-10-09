@@ -946,12 +946,22 @@
       "email": "",
       "question": "What is meant by arabic being the root of all other languages?",
       "timestamp": "2026-02-12T03:18:48.192Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 1,
       "likedBy": [
         "user_ba5t82dfu"
       ],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791567679550,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:41:19.550Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1772210813649,
