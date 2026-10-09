@@ -1187,10 +1187,20 @@
       "email": "",
       "question": "ksdchjdsbhkcvkvbjhwvjknqejnvqenov",
       "timestamp": "2026-07-07T13:57:45.584Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791567799149,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:43:19.149Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783433223430,
