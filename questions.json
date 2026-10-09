@@ -632,7 +632,7 @@
       "email": "",
       "question": "what can i say to shut up my christian friend",
       "timestamp": "2026-01-19T14:19:30.571Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
       "answers": [
@@ -660,6 +660,15 @@
           "author": "Muhammad",
           "isOwner": false,
           "date": "2026-01-25T04:27:27.983Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567635958,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:35.958Z",
           "replies": [],
           "parentAnswerId": null
         }
