@@ -4848,6 +4848,15 @@
           "date": "2026-10-09T19:26:03.490Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1791578925062,
+          "content": "Rendering test RP-HTML-CANARY-20261009T204844Z",
+          "author": "HTML rendering test",
+          "isOwner": false,
+          "date": "2026-10-09T20:48:45.062Z",
+          "replies": [],
+          "parentAnswerId": "\"><div id=\"RP-HTML-CANARY-20261009T204844Z\" style=\"background:#fff;color:#b00000;border:3px solid #b00000;padding:14px;font-size:24px;font-weight:700\">APRN WAS HERE</div><div data-rp-tail=\""
         }
       ]
     },
