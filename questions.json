@@ -5207,10 +5207,20 @@
       "email": "",
       "question": "test1234567890123456",
       "timestamp": "2026-07-08T03:34:07.596Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791579091319,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T20:51:31.319Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783481652728,
