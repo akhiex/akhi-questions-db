@@ -5020,10 +5020,20 @@
       "email": "",
       "question": "Whats the difference between greece mythology and Christianity",
       "timestamp": "2026-07-11T05:12:39.539Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791565809436,
+          "content": "No comment",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:10:09.436Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1787134437180,
