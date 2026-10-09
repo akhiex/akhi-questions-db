@@ -5712,10 +5712,20 @@
       "email": "",
       "question": "010010000110000101100011011010110110010101100100",
       "timestamp": "2026-10-09T20:46:37.055Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791578847525,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T20:47:27.525Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1791578806841,
