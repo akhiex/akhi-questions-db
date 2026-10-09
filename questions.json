@@ -680,7 +680,7 @@
       "email": "",
       "question": "Can Muslims say Jesus is king?",
       "timestamp": "2026-01-22T14:16:14.490Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 1,
       "likedBy": [
         "user_e4zta0lvn"
@@ -711,6 +711,15 @@
           "author": "Zerina",
           "isOwner": false,
           "date": "2026-01-25T22:10:00.854Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567641041,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:41.041Z",
           "replies": [],
           "parentAnswerId": null
         }
