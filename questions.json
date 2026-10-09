@@ -1092,10 +1092,20 @@
       "email": "",
       "question": "Asalam wu alaykum. I am a muslim but how do i explain to chrstians that islam isthe one true religion",
       "timestamp": "2026-07-01T11:15:56.910Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791567767149,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:42:47.149Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783217961794,
