@@ -304,7 +304,7 @@
       "timestamp": "2026-01-15T21:30:00.000Z",
       "ip": "",
       "userAgent": "",
-      "status": "pending",
+      "status": "answered",
       "likes": 2,
       "likedBy": [
         "user_a4mejnpsx",
@@ -337,6 +337,15 @@
               "parentAnswerId": 1768620976570
             }
           ],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567596143,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:39:56.143Z",
+          "replies": [],
           "parentAnswerId": null
         }
       ]
