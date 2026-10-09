@@ -5613,10 +5613,20 @@
       "email": "",
       "question": "https://refutingpaulianity.com/api/submit-question",
       "timestamp": "2026-10-09T20:44:42.554Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791578888816,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T20:48:08.816Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1791578703638,
