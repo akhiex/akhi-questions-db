@@ -4484,10 +4484,20 @@
       "email": "",
       "question": "test1234567890123456",
       "timestamp": "2026-07-08T03:31:28.497Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791564233441,
+          "content": "[RP-AUTHZ-TEST-20261009T164352Z] Authorized test of server-side owner authorization. Remove after assessment.",
+          "author": "Security assessment",
+          "isOwner": true,
+          "date": "2026-10-09T16:43:53.441Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783481493498,
