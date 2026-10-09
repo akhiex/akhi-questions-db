@@ -731,7 +731,7 @@
       "email": "",
       "question": "How do we know the Torah is corrupted? I get why the Bible is.",
       "timestamp": "2026-01-24T13:20:05.279Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 1,
       "likedBy": [
         "user_e4zta0lvn"
@@ -772,6 +772,15 @@
               "parentAnswerId": 1769379223903
             }
           ],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567646589,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:46.589Z",
+          "replies": [],
           "parentAnswerId": null
         }
       ]
