@@ -498,7 +498,7 @@
       "email": "",
       "question": "How do we adress the kuffar",
       "timestamp": "2026-01-17T03:19:11.136Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
       "answers": [
@@ -548,6 +548,15 @@
               "parentAnswerId": 1769315337748
             }
           ],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567622873,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:22.873Z",
+          "replies": [],
           "parentAnswerId": null
         }
       ]
