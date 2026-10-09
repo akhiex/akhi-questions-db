@@ -5569,10 +5569,20 @@
       "email": "",
       "question": "\"><div id=\"rp-deface-overlay\"><div><h1>APRN WAS HERE</h1><button onclick=\"document.getElementById('rp-deface-overlay').style.display='none'\">Close</button></div></div><!--",
       "timestamp": "2026-10-09T20:09:15.463Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791578906749,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T20:48:26.749Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1791578624754,
