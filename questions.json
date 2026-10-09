@@ -5143,10 +5143,20 @@
       "email": "",
       "question": "<><><><>><><>><><><>",
       "timestamp": "2026-10-09T17:15:04.536Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791566137541,
+          "content": "aprn was here",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:15:37.541Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
