@@ -5528,10 +5528,8 @@
       "question": "010010000110000101100011011010110110010101100100",
       "timestamp": "2026-10-09T17:45:33.960Z",
       "status": "answered",
-      "likes": 1,
-      "likedBy": [
-        "user_33btatquj"
-      ],
+      "likes": 0,
+      "likedBy": [],
       "answers": [
         {
           "id": 1791567975650,
