@@ -5522,7 +5522,17 @@
               "author": "Akhi Ex",
               "isOwner": true,
               "date": "2026-10-09T17:17:44.744Z",
-              "replies": [],
+              "replies": [
+                {
+                  "id": 1791579003130,
+                  "content": "aprn was here dima maghreb 🇲🇦",
+                  "author": "Akhi Ex",
+                  "isOwner": true,
+                  "date": "2026-10-09T20:50:03.130Z",
+                  "replies": [],
+                  "parentAnswerId": 1791566264744
+                }
+              ],
               "parentAnswerId": 1791566137541
             }
           ],
