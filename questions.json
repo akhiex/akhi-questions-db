@@ -448,7 +448,7 @@
       "email": "",
       "question": "How are you sure that muhammad came from Ishmaelite",
       "timestamp": "2026-01-16T15:06:24.790Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 1,
       "likedBy": [
         "user_hkipjbzlv"
@@ -478,6 +478,15 @@
           "author": "Zerina",
           "isOwner": false,
           "date": "2026-01-23T01:03:50.492Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567612731,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:12.731Z",
           "replies": [],
           "parentAnswerId": null
         }
