@@ -862,7 +862,7 @@
       "email": "",
       "question": "Assalualaikum Akhi, you should add sections addressing the “4 wives” and “The Prophet PBUH was a warlord” arguments against Islam. Jazakallah Khair",
       "timestamp": "2026-01-31T20:51:22.127Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 2,
       "likedBy": [
         "user_vl3dctiqt",
@@ -884,6 +884,15 @@
           "author": "Muhammad",
           "isOwner": false,
           "date": "2026-02-01T01:07:59.284Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567669392,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:41:09.392Z",
           "replies": [],
           "parentAnswerId": null
         }
