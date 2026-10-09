@@ -567,7 +567,7 @@
       "email": "",
       "question": "Is making dua in congregation praising Allah bida’a",
       "timestamp": "2026-01-17T07:15:28.534Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 1,
       "likedBy": [
         "user_uyom5b0rr"
@@ -579,6 +579,15 @@
           "author": "Zerina",
           "isOwner": false,
           "date": "2026-01-23T01:10:32.386Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567626891,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:40:26.891Z",
           "replies": [],
           "parentAnswerId": null
         }
