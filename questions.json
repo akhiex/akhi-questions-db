@@ -969,7 +969,7 @@
       "email": "",
       "question": "Why is Islam superior to other religions?",
       "timestamp": "2026-02-27T16:46:53.649Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
       "answers": [
@@ -979,6 +979,15 @@
           "author": "Zerina",
           "isOwner": false,
           "date": "2026-02-28T14:48:09.255Z",
+          "replies": [],
+          "parentAnswerId": null
+        },
+        {
+          "id": 1791567683597,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:41:23.597Z",
           "replies": [],
           "parentAnswerId": null
         }
