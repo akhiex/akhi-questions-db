@@ -4496,6 +4496,15 @@
           "date": "2026-10-09T16:43:53.441Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1791565185788,
+          "content": "[RP-AUTHZ-TEST-20261009T165934Z] Owner-attribution authorization test; remove after assessment.",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T16:59:45.788Z",
+          "replies": [],
+          "parentAnswerId": null
         }
       ]
     },
