@@ -5009,10 +5009,20 @@
       "email": "",
       "question": "test1234567890123456",
       "timestamp": "2026-07-08T03:35:17.356Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791567435453,
+          "content": "forgot to clean all this up shitty ahh blind injects did me no justice",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T17:37:15.453Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783746759539,
