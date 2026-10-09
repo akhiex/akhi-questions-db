@@ -5022,10 +5022,20 @@
       "email": "",
       "question": "test1234567890123456",
       "timestamp": "2026-07-08T03:32:08.506Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1791579159242,
+          "content": "aprn was here dima maghreb 🇲🇦",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-10-09T20:52:39.242Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     },
     {
       "id": 1783481533470,
