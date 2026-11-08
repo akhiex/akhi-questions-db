@@ -6509,10 +6509,20 @@
       "email": "",
       "question": "jesus never died but muhammad died",
       "timestamp": "2026-11-01T03:43:49.428Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1794107777405,
+          "content": "HACKED O.o",
+          "author": "alla",
+          "isOwner": true,
+          "date": "2026-11-08T03:16:17.405Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
