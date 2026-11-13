@@ -6540,7 +6540,7 @@
       "email": "",
       "question": "HACKED BY A__N DIMA MAGHREB",
       "timestamp": "2026-11-13T12:58:57.597Z",
-      "status": "pending",
+      "status": "answered",
       "likes": 0,
       "likedBy": [],
       "answers": [
@@ -6552,6 +6552,15 @@
           "date": "2026-11-13T12:59:28.665Z",
           "replies": [],
           "parentAnswerId": null
+        },
+        {
+          "id": 1794574788548,
+          "content": "Im back... bro still hasnt fixed up his site lol",
+          "author": "Akhi Ex",
+          "isOwner": true,
+          "date": "2026-11-13T12:59:48.548Z",
+          "replies": [],
+          "parentAnswerId": 1794574769436
         }
       ]
     }
