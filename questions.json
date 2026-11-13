@@ -6519,7 +6519,17 @@
           "author": "alla",
           "isOwner": true,
           "date": "2026-11-08T03:16:17.405Z",
-          "replies": [],
+          "replies": [
+            {
+              "id": 1794574713244,
+              "content": "HACKED BY A__N DIMA MAGHREB",
+              "author": "Akhi Ex",
+              "isOwner": false,
+              "date": "2026-11-13T12:58:33.244Z",
+              "replies": [],
+              "parentAnswerId": 1794107777405
+            }
+          ],
           "parentAnswerId": null
         }
       ]
