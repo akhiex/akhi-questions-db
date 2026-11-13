@@ -6543,7 +6543,17 @@
       "status": "pending",
       "likes": 0,
       "likedBy": [],
-      "answers": []
+      "answers": [
+        {
+          "id": 1794574768665,
+          "content": "Im back... bro still hasnt fixed up his site lol",
+          "author": "Akhi Ex",
+          "isOwner": false,
+          "date": "2026-11-13T12:59:28.665Z",
+          "replies": [],
+          "parentAnswerId": null
+        }
+      ]
     }
   ]
 }
